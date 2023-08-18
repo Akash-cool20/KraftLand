@@ -1,0 +1,64 @@
+.container {
+    display: flex;
+}
+
+.pottery {
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.pot  {
+    border-radius: 50%;
+}
+
+.gcards {
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.card {
+    border-radius: 50%;
+}
+
+.paints {
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.paint {
+    border-radius: 50%;
+}
+
+.ceramics {
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.cer {
+    border-radius: 50%;
+}
+
+.claym {
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.clay {
+    border-radius: 50%;
+}
+
+.portraits {
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.port {
+    border-radius: 50%;
+}
+
+.botline {
+    margin-top: 3px;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
